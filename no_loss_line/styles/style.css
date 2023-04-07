@@ -1,3 +1,6 @@
+
+
+
 #content {
     max-width: 100%;
     margin: 0 auto;
@@ -186,7 +189,7 @@ header{
   background-color: darkkhaki;
 }
 
-h21 {
+h3 {
   line-height: 50px;
   margin-left: 50px;
   font-size: 64px;
@@ -209,7 +212,7 @@ h210 {
 }
 
 .try {
-  margin-top: 400px;
+  margin-top: 800px;
   
 }
 
@@ -254,11 +257,11 @@ h210 {
 
 
 p {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serifzsa
 }
 
 h2{
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
 .r2-card-img, .r3-card-img, .r4-card-img {
@@ -267,4 +270,22 @@ h2{
   
 }
 
+h3{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 
+.p1{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+a {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h4 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
